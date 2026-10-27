@@ -19,7 +19,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/D1edDuck/forum_client.git
+git clone https://github.com/avofe/forum_client.git
 cd forum_client
 
 # Установить зависимости
@@ -89,4 +89,4 @@ forum_client/
 
 ## Автор
 
-- GitHub: [D1edDuck](https://github.com/D1edDuck]
+- GitHub: [avofe](https://github.com/avofe)
